@@ -37,7 +37,6 @@ namespace Task_4
                     {
                         minValue = currentValue;
                     }
-                    continue;
                 }
                 else
                 {
